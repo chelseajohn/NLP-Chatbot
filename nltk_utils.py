@@ -1,6 +1,6 @@
 import nltk
 import numpy as np
-#nltk.download('punkt')
+#nltk.download('punkt')  # package with pre-trained tokenizer
 from nltk.stem.porter import PorterStemmer
 stemmer = PorterStemmer()
 
